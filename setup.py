@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='django-global-context',
-      version='0.1.0',
+      version='0.1.1',
       description='Global context injector for Django',
       author='Nik Nyby',
       author_email='nnyby@columbia.edu',
